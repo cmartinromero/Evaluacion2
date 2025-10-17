@@ -38,9 +38,10 @@ python3 Prueba2-Martin-José.py
 -Luego ingresa la **ubicacion de origen** y la  **ubicacion de destino**.
 
 -El script te mostrara :
+  - Las **Instrucciones paso a paso en español**
   - Las coordenadas geograficas obtenidas por el geocodificador.
   - La distancia total del recorrido (en km y millas).
-  - Las  **Instrucciones paso a paso en español**
+  - La duracion del viaje.
     
 Para salir del programa escribe 's' o 'salir'.
 
